@@ -3,16 +3,16 @@ Authors:
 - Vijay #2: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
 
 
-Mobile Usage Patterns and User Behavior Classification Across Devices
+# Mobile Usage Patterns and User Behavior Classification Across Devices
 
 
-Project Overview:
+# Project Overview:
 
 Our project is to review a mobile usage dataset and explore how mobile phones are being used and the behaviours of their owners. 
 
 
 
-Features
+# Features
 
    * Exploratory Data Analysis and Visual Distributions
    * Correlation Matrices
@@ -20,7 +20,7 @@ Features
 
 
 
-Installation:
+# Installation:
 
    *Download data from Kaggle: https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset?resource=download
    
@@ -32,7 +32,7 @@ Installation:
 
 
    
-Results: Visualizations and statistical inferences for graphs answering the following questions:
+# Results: Visualizations and statistical inferences for graphs answering the following questions:
 
    *Most Popular Devices Based On User Age & Gender
    
