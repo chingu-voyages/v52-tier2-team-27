@@ -2,17 +2,23 @@ Authors:
 - Araba Addaquay: [GitHub](https://github.com/Araba-bot) / [LinkedIn](https://linkedin.com/in/arabaaddaquay)
 - Vijay #2: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
 
+
 Mobile Usage Patterns and User Behavior Classification Across Devices
+
 
 Project Overview:
 
 Our project is to review a mobile usage dataset and explore how mobile phones are being used and the behaviours of their owners. 
+
+
 
 Features
 
    * Exploratory Data Analysis and Visual Distributions
    * Correlation Matrices
    * Linear Regression
+
+
 
 Installation:
 
@@ -23,6 +29,8 @@ Installation:
    *Clone the project locally
    
    *Pandas, Matplotlib, Seaborn, Scikit-learn
+
+
    
 Results: Visualizations and statistical inferences for graphs answering the following questions:
 
