@@ -1,6 +1,6 @@
 Authors:
 - Araba Addaquay: [GitHub](https://github.com/Araba-bot) / [LinkedIn](https://linkedin.com/in/arabaaddaquay)
-- Vijay #2: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
+- Vijay Kumar: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
 
 
 # Mobile Usage Patterns and User Behavior Classification Across Devices
